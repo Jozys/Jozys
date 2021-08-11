@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> My name is Joshua and I am a fullstack developer from Germany. Most of the time I work on applications for frontend and sometimes backend stuff too, for school projects, see at <a href="https://github.com/ProjektDevLights"> @ProjektKursInfo </a>. </p>
+<p> My name is Joshua and I am a fullstack developer from Germany. Currently I am working at a futher development of a school projects, see at <a href="https://github.com/ProjektDevLights"> @ProjektKursInfo </a>. and at a smartphone application for <a href="https://github.com/Teck-Digital/teckboard"> @TECKdigital/teckboard </a>, see at <a href="https://github.com/Teck-Digital/teckboard-react-native"> TECKboard-React-Native </a> </p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jozys&count_private=true)](https://github.com/Jozys)
 
