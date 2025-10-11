@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Joshua and I am a fullstack developer from Germany.
-<br>Currently I study Computer Science in Karlsruhe, Germany at the Baden-Wuerttemberg Cooperative State University Karlsruhe (DHBW Karlsruhe) and work as a Vocational Training Student, in connection with my studies at DHBW, at the SAP SE in Walldorf, Germany.
+<br> Currently I am working as a Developer Asscoiate for the SAP BTP UI technologies department at the SAP SE in Walldorf, Baden-Wuerttembeg, Germany and do my Master of Science studies in Computer Science at the Technical University of Darmstadt.
 <br> Apart from that I am also working on <a href="https://github.com/Teck-Digital">@TECKdigital</a>, a school company I worked since 2019, and
-<a href="https://github.com/ProjektDevLights">@ProjektDevLights</a>, smart home leds for developers.
+<a href="https://github.com/ProjektDevLights">@ProjektDevLights</a>, smart home leds for developers. 
 
 In my freetime I love spending time outside doing things like bicycling or walking, reading and programming.
 
