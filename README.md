@@ -1,33 +1,70 @@
-### Hi there 👋
+### Hi there, I'm Joshua 👋
 
-My name is Joshua and I am a fullstack developer from Germany.
-<br> Currently I am working as a Developer Asscoiate for the SAP BTP UI technologies department at the SAP SE in Walldorf, Baden-Wuerttembeg, Germany and do my Master of Science studies in Computer Science at the Technical University of Darmstadt.
-<br> Apart from that I am also working on <a href="https://github.com/Teck-Digital">@TECKdigital</a>, a school company I worked since 2019.
-Most of my past and current projects can be viewed through my [website](https://joshua.slaar.de) or their public GitHub repositories.
+I'm a Fullstack **Software Engineer** from Germany.
 
-In my freetime I love bicycling and walking outside. Also I like reading books and working on private programming projects.
+- 💼 Working as a **Software Engineer at [SAP SE](https://www.sap.com)** in Walldorf.
+- 🎓 **Bachelor of Science in Computer Science** from **DHBW Karlsruhe** (dual study program with SAP, 2022–2025).
+- 🚀 Experience at the student company **[@TECKdigital](https://github.com/teckdigital)** (2019–2022), co-developing the [TECKboards](https://joshua.slaar.de/projects/teckboard).
+- 🌐 Explore my work, background, and live demos on my website: **[joshua.slaar.de](https://joshua.slaar.de)**
+- 🚴‍♂️ Outside of coding, I enjoy working out, cycling and hiking around the Karlsruhe area & Black Forest, reading books, and traveling across Germany and Europe by train.
 
-### Techniques (Languages and Frameworks)
+---
 
-These programming languages and frameworks are the ones I work or have worked with:
+### 🛠️ Technologies & Tools
+
+These technologies, programming languages and frameworks are the ones I have experience with and use in my projects. I am always eager to learn new technologies and improve my skills.:
+
+**Frontend & UI**
 
 <div align="left">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  /> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="42" alt="node js logo"  /> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" width="42" alt="nest js logo"  /> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="42" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="42" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="32" width="42" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="32" width="42" alt="Material UI" title="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="42" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="42" alt="CSS3" title="CSS3" />
 </div>
 
-### GitHub Stats
+<br/>
+
+**Backend**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" width="42" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" width="42" alt="NestJS" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" width="42" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" width="42" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" width="42" alt="C++" title="C++" />
+</div>
+
+<br/>
+
+**Mobile**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" width="42" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="32" width="42" alt="Jetpack Compose" title="Jetpack Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" width="42" alt="Flutter" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" width="42" alt="Dart" title="Dart" />
+</div>
+
+<br/>
+
+**Databases & DevOps**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" width="42" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" width="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" width="42" alt="Jenkins" title="Jenkins" />
+</div>
+
+<br />
+
+---
+
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jozys&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jozys&theme=dark&hide_border=false)<br/>
-
-<!--
-**Jozys/Jozys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
